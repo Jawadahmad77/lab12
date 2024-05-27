@@ -2,3 +2,5 @@ jawad ahmad
 23 set 007
 
 cout<<a+b;
+
+cout<<a-b;
